@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mgravemeyer/game-backend#readme",
   "dependencies": {
+    "@types/node": "^17.0.18",
     "typescript": "^4.5.5",
     "ws": "^8.5.0"
   }
