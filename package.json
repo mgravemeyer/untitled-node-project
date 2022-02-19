@@ -1,0 +1,22 @@
+{
+  "name": "@mgravemeyer/game_backend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgravemeyer/game-backend.git"
+  },
+  "author": "mgravemeyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgravemeyer/game-backend/issues"
+  },
+  "homepage": "https://github.com/mgravemeyer/game-backend#readme",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}
